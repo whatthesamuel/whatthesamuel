@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi!
 
-<!--
-**whatthesamuel/whatthesamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Who am I?
+> I'm a CS student who wants to make my own game.
+> I believe games can be a form of art, to make people not only enjoy themselves but also think about what the game designer wants to say while playing the game.
+> I'm also a long time user of Gamemaker Studio.
 
-Here are some ideas to get you started:
+#### What I've been doing
+> * (unwillingly or not,) studying for CS degree
+> * participated in localization of softwares and games such as: OBS studio, Kingdoms and Castles, VRidge... (*listed as Alex Lee in the credits*)
+> * making and participating in various projects using Gamemaker Studio. Game jam submissions and more can be found [here]( https://whatthesamuel.itch.io/, "itch io") and my yt channel [playlist](https://youtube.com/playlist?list=PLt6U7hC8uB3nbvgFti58LkmCyDIAxZu0q, "playlist")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact me!
+
+email: <alex01763@gmail.com>
