@@ -9,7 +9,7 @@
 > * (unwillingly or not,) studying for CS degree
 > * participated in localization of softwares and games such as: OBS studio, Kingdoms and Castles, VRidge... (*listed as Alex Lee in the credits*)
 > * making and participating in various projects using Gamemaker Studio. Game jam submissions and more can be found [here]( https://whatthesamuel.itch.io/, "itch io") and my yt channel [playlist](https://youtube.com/playlist?list=PLt6U7hC8uB3nbvgFti58LkmCyDIAxZu0q, "playlist")
-> * [my firebase login addon for GMS2]( https://marketplace.yoyogames.com/assets/10041/firebase-anonymous-login, "marketplace)
+> * my firebase login addon for GMS2 can be found [here]( https://marketplace.yoyogames.com/assets/10041/firebase-anonymous-login, "marketplace)
 
 #### Contact me!
 
