@@ -12,6 +12,8 @@
 > * my firebase login plugin for GMS2 can be found [here](https://marketplace.yoyogames.com/assets/10041/firebase-anonymous-login, "playlist")
 > * feel free to help me with the firebase plugin [here](https://github.com/whatthesamuel/gamemaker_scripts/tree/main/firebase)
 
+##### For more details and frequent updates, visit my [website](https://whatthesamuel.com)
+
 #### Contact me!
 
 email: <alex01763@gmail.com>
