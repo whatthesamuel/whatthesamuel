@@ -1,6 +1,6 @@
 ### Hi!
 
-## More information on my homepage
+## More(& better updated) information on my homepage
   link: [whatthesamuel.com](https://whatthesamuel.com)
 
 ## This is what I've been doing!
