@@ -9,7 +9,7 @@
 * Worked on some AI projects using Unreal Engine 5!
 * Worked on localization/translation of projects such as OBS Studio, VRidge, Kingdoms and Castles and more
 * Taught game dev beginners how to make their own games using gamemaker studio on Udemy
-* Also check out my YT channel or the 'Projects' page of this page in case this article doesn't get updated
+* Also check out my YT channel or the 'Projects' page of my homepage in case this article doesn't get updated
 
 ## I can...
 * Make games using Unreal Engine, Gamemaker studio, Godot and Unity!
