@@ -3,6 +3,7 @@ I'm currently working with Unreal + SVN, so less updates on github for now :(
 Meanwhile...
 ## More(& better updated) information on my homepage
   link: [whatthesamuel.com](https://whatthesamuel.com)
+  Korean version: [whatthesamuel.com/kr](https://whatthesamuel.com/kr/)
 
 ## This is what I've been doing!
 * 8+ years indie/amateur gamedev experience
