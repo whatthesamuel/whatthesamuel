@@ -24,4 +24,4 @@ Meanwhile... **update: [This](https://whatthesamuel.com/projects/networking/svn-
 * played guitar for 3+ years!
 
  
-*contact me at mail@whatthesamuel.com [link](mailto:mail@whatthesamuel.com)*
+*contact me at alex01763@gmail.com [link](alex01763@gmail.com)*
