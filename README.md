@@ -1,6 +1,5 @@
 ### Hi!
 I'm currently working with Unreal + SVN, so less updates on github for now :(    
-Meanwhile... **update: [This](https://whatthesamuel.com/projects/networking/svn-githow-to-link-svn-commits-to-github/) should improve the situation**    
 
 ## More(& better updated) information on my homepage
   link: [whatthesamuel.com](https://whatthesamuel.com)     
